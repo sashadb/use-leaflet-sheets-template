@@ -1,7 +1,21 @@
 Group,Marker Icon,Marker Color,Icon Color,Custom Size,Name,Image,Description,Location,Latitude,Longitude
-Visit,media/calais-64.jpg,,,40x40,"Calais, Maine",media/calais.jpg,The northern end of the East Coast Greenway. <a href='https://www.greenway.org/stories/maine-to-new-hampshire-week-1-east-coast-river-relay' target='_blank'>Read more</a>. Photo by ECG.,"Calais, ME",45.18683,-67.2683
-Visit,media/delaware-64.jpg,,,40x40,"Jack Markell Trail, Delaware",media/delaware.jpg,Walk or bike on <a href='https://www.delawaregreenways.org/portfolio_page/jackamarkell-trail/' target='_blank'>Jack Markell trail</a> on the East Coast Greenway.,"Jack Markell Trail, Wilmington, DE",39.723975,-75.562312
-Visit,media/ecg-logo-64.png,,,40x40,"East Coast Greenway, Durham NC",media/ecg-logo.png,Visit <a href='https://greenway.org' target='_blank'>Greenway.org</a> and view <a href='https://www.greenway.org/route-map' target='_blank'>the official map</a>.,"5826 Fayetteville Rd, Durham, NC 27713, USA",35.9207099,-78.9296101
-Food,fa-ice-cream,green,white,,"Capital Ice Cream, Hartford CT",media/icecream.jpg,Visit <a href='https://capitalicecream.com' target='_blank'>Capital Ice Cream in Hartford CT</a> and see more <a href='https://www.greenway.org/stories/churning-up-an-appetite-favorite-ice-cream-shops-along-the-east-coast-greenway' target='_blank'>favorite ice cream stops on the East Coast Greenway</a>.,"389 Capital Ave, Hartford CT",41.76385504,-72.68853213
-Food,fa-coffee,green,white,,"Sentient Bean coffee, Savanah GA",media/coffee.png,Visit <a href='https://www.sentientbean.com' target='_blank'>Sentient Bean</a> and see more <a href='https://www.greenway.org/stories/caffeinate-your-ride-coffee-shops-along-the-greenway' target='_blank'>favorite coffee shops on the Greenway</a>.,"13 E Park Ave, Savannah GA",32.06477342,-81.09702363
-Visit,media/keywest-64.jpg,,,40x40,"Key West, Florida",media/keywest.jpg,The southern end of the East Coast Greenway.,"Key West, FL",24.5550593,-81.7799871
+Visit,media/calais-64.jpg,,,40x40,The Scour Bridge Canal,media/calais.jpg,The northern end of the East Coast Greenway. <a href='https://www.greenway.org/stories/maine-to-new-hampshire-week-1-east-coast-river-relay' target='_blank'>Read more</a>. Photo by ECG.,"Calais, ME",53.2857099,-6.8943485
+Visit,media/delaware-64.jpg,,,40x40,The Pinkeen Road,media/delaware.jpg,Walk or bike on <a href='https://www.delawaregreenways.org/portfolio_page/jackamarkell-trail/' target='_blank'>Jack Markell trail</a> on the East Coast Greenway.,"Jack Markell Trail, Wilmington, DE",53.3417559,-6.9555101
+Visit,media/ecg-logo-64.png,,,40x40,The woody cross road,media/ecg-logo.png,Visit <a href='https://greenway.org' target='_blank'>Greenway.org</a> and view <a href='https://www.greenway.org/route-map' target='_blank'>the official map</a>.,"5826 Fayetteville Rd, Durham, NC 27713, USA",53.3623216,-7.0178581
+Food,fa-ice-cream,green,white,,Bullsbridge,media/icecream.jpg,Visit <a href='https://capitalicecream.com' target='_blank'>Capital Ice Cream in Hartford CT</a> and see more <a href='https://www.greenway.org/stories/churning-up-an-appetite-favorite-ice-cream-shops-along-the-east-coast-greenway' target='_blank'>favorite ice cream stops on the East Coast Greenway</a>.,"389 Capital Ave, Hartford CT",53.361582,-7.0784276
+Food,fa-coffee,green,white,,The Nine Mile Road,media/coffee.png,Visit <a href='https://www.sentientbean.com' target='_blank'>Sentient Bean</a> and see more <a href='https://www.greenway.org/stories/caffeinate-your-ride-coffee-shops-along-the-greenway' target='_blank'>favorite coffee shops on the Greenway</a>.,"13 E Park Ave, Savannah GA",53.2806503,-7.0247771
+Visit,media/keywest-64.jpg,,,40x40,Phils Road,media/keywest.jpg,The southern end of the East Coast Greenway.,"Key West, FL",53.4487039,-7.0868717
+,,,,,Jonestown cross,,,,53.3760485,-7.1047259
+,,,,,The Midge river,,,,53.3009115,-7.088979
+,,,,,Fan hill,,,,53.316858,-7.0715553
+,,,,,Tubberdaly,,,,53.3307897,-7.2177682
+,,,,,The head of Tubberdaly,,,,53.3228696,-7.1988393
+,,,,,The green road,,,,53.3229465,-7.1894837
+,,,,,Faheys hill,,,,53.3561305,-7.1685349
+,,,,,Andys Road,,,,53.4224799,-6.9274828
+,,,,,Birdys big house,,,,53.3868344,-6.9288561
+,,,,,Jim Hills,,,,53.3818319,-7.1201436
+,,,,,Judge Weightlees,,,,53.3620232,-7.1716378
+,,,,,Berrigans Corner,,,,53.3141281,-7.1242149
+,,,,,Blunts Corner,,,,53.3087653,-7.1346862
+,,,,,Captain Crinnons,,,,53.4395538,-7.0775069
