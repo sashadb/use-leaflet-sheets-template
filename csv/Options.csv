@@ -1,6 +1,6 @@
 Setting,Customize,Hints
 Map Info,,"For help, see tutorial in HandsOnDataViz.org"
-Map Title,Sasha's csv map2,Insert your map title. Always appears in browser tab
+Map Title,Sasha's csv map3,Insert your map title. Always appears in browser tab
 Map Subtitle,Explore the East Coast Greenway,Add context (or leave blank)
 Display Title,topleft,"Select position to display map title, or off"
 Author Name,Add Your Name,"Appears in credits as ""View data by..."" (or leave blank)"
@@ -12,9 +12,9 @@ Map Settings,,"For help, see tutorial in HandsOnDataViz.org"
 Basemap Tiles,CartoDB.Positron,Select basemap background from drop-down menu
 Cluster Markers,off,"Display tightly-packed groups of markers as numbers, until zoomed in to view details."
 Intro Popup Text,,Show intro text pop-up on startup (or leave blank)
-Initial Zoom,,Leave blank to auto-zoom to display all markers (or insert number between 1 [zoomed out] and 18 [zoomed in])
-Initial Center Latitude,,Leave blank to auto-center for all markers (or insert initial latitude)
-Initial Center Longitude,,Leave blank to auto-center for all markers (or insert initial longitude)
+Initial Zoom,12,Leave blank to auto-zoom to display all markers (or insert number between 1 [zoomed out] and 18 [zoomed in])
+Initial Center Latitude,53.365023,Leave blank to auto-center for all markers (or insert initial latitude)
+Initial Center Longitude,-6.917024,Leave blank to auto-center for all markers (or insert initial longitude)
 Map Controls,,
 Search Button,topright,Display the search box (magnifying glass)
 Search Radius,5 miles,Select radius for results from Mapzen search
