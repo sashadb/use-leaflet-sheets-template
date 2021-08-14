@@ -131,7 +131,7 @@ $(window).on('load', function() {
           (point['Image'] ? ('<img src="' + point['Image'] + '"><br>') : '') +
           point['Description']),{
           //maxHeight: 300,
-          className : "description",
+          //className : "description",
           pane: "fixed",
           autoPan : false
               });
