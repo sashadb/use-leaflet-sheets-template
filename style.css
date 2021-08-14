@@ -67,7 +67,7 @@ form {
 }
 
 .leaflet-popup-content {
-  min-width: 150px;
+  /* min-width: 150px; */
 }
 
 .leaflet-popup-content img {
@@ -213,6 +213,11 @@ form {
   width: 20px;
 }
 
+
+#points-legend{
+  visibility:hidden;
+}
+
 .markers-legend-icon {
   height: 12px;
   vertical-align: middle;
@@ -280,8 +285,7 @@ span.legend-icon {
 }
 
 .ladder h6.minimize ~ div,
-.ladder h6.minimize ~ form,
-.ladder h6.minimize ~ section {
+.ladder h6.minimize ~ form {
   display: none !important;
 }
 
