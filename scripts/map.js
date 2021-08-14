@@ -125,7 +125,24 @@ $(window).on('load', function() {
           point['Icon Color']
         );
 
-//edited here so that popups match the 'description' style in index
+  //    if (point.Latitude !== '' && point.Longitude !== '') {
+  //      var marker = L.marker([point.Latitude, point.Longitude], {icon: icon})
+  //        .bindPopup("<b>" + point['Name'] + '</b><br>' +
+  //        (point['Image'] ? ('<img src="' + point['Image'] + '"><br>') : '') +
+  //        point['Description']);
+
+//added to make popup go to the right
+          if (point.Latitude !== '' && point.Longitude !== '') {
+              var marker = L.marker([point.Latitude, point.Longitude], {icon: icon})
+                .bindPopup("<b>" + point['Name'] + '</b><br>' +
+                (point['Image'] ? ('<img src="' + point['Image'] + '"><br>') : '') +
+                point['Description'] ,{
+        				//maxHeight: 300,
+        				className : "description",
+        				pane: "fixed",
+        				autoPan : false
+                  	});
+
 
       if (point.Latitude !== '' && point.Longitude !== '') {
           var marker = L.marker([point.Latitude, point.Longitude], {icon: icon})
